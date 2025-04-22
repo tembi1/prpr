@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'ClashDisplay-Medium';
+  src: url('../fonts/clash/ClashDisplay-Medium.woff2') format('woff2'),
+       url('../fonts/clash/ClashDisplay-Medium.woff') format('woff'),
+       url('../fonts/clash/ClashDisplay-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ClashDisplay-Semibold';
+  src: url('../fonts/clash/ClashDisplay-Semibold.woff2') format('woff2'),
+       url('../fonts/clash/ClashDisplay-Semibold.woff') format('woff'),
+       url('../fonts/clash/ClashDisplay-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
